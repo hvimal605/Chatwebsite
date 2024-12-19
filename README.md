@@ -7,22 +7,19 @@ User Profiles
 Users can create, update, and manage their profiles, including adding a display picture, setting usernames, and adjusting account settings.
 Real-Time Messaging
 Instant Messaging: Users can send and receive messages in real time using Socket.io.
-
 Chat Features
 Message History: View past conversations and chat history with any user.
 Typing Indicators: Know when someone is typing a message in real time.
 Online Status: Real-time updates showing which users are online or offline.
 Authentication & Security
 Session Management: Stay logged in across devices with secure session handling.
-
 UI/UX Design
 Tailwind CSS is used to create a visually appealing, responsive, and user-friendly design for both desktop and mobile devices.
-
 🚀 Demo
-Explore the Live Demo (https://chatwebapp-8sjg.onrender.com)
+Explore the Live Demo
 
 🖼️ Project Screenshots
-https://i.ibb.co/9cw60yX/Screenshot-2024-12-19-215738.png
+
 
 🧐 Features
 Here are some of the best features of HarshSpark:
