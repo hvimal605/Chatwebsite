@@ -1,5 +1,6 @@
 HarshSpark - Real-time Messaging App
-Description: HarshSpark is an engaging, real-time messaging platform built with the MERN stack, offering users an interactive, seamless experience for instant communication. With a modern and responsive UI designed using React.js and Tailwind CSS, HarshSpark allows users to connect and communicate with ease. The backend is powered by Node.js and Express, while Socket.io enables real-time messaging functionality. MongoDB ensures efficient storage and management of user data, making the app scalable and reliable for all your messaging needs.
+Description:
+HarshSpark is an engaging, real-time messaging platform built with the MERN stack, offering users an interactive, seamless experience for instant communication. With a modern and responsive UI designed using React.js and Tailwind CSS, HarshSpark allows users to connect and communicate with ease. The backend is powered by Node.js and Express, while Socket.io enables real-time messaging functionality. MongoDB ensures efficient storage and management of user data, making the app scalable and reliable for all your messaging needs.
 
 🌟 User Experience and Features
 Real-Time Messaging
@@ -15,13 +16,18 @@ JWT Authentication: Ensures secure logins and protects user data with JSON Web T
 UI/UX Design
 Modern and Responsive: The platform uses Tailwind CSS to create a visually appealing, user-friendly interface optimized for both mobile and desktop devices.
 🚀 Demo
-Explore the Live Demo
+Explore the live demo of HarshSpark:
+
+Live Demo - https://chatwebapp-8sjg.onrender.com/
 
 🖼️ Project Screenshots
+Here are some screenshots of the project:
 
-https://i.ibb.co/BqC5YCq/Screenshot-2024-10-19-121359.png
+
+![Screenshot 1]-(https://i.ibb.co/BqC5YCq/Screenshot-2024-10-19-121359.png)
 https://i.ibb.co/9cw60yX/Screenshot-2024-12-19-215738.png
 https://i.ibb.co/RDCNpgh/Screenshot-2024-12-19-221020.png
+
 
 
 🧐 Features
