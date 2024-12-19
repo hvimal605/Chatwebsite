@@ -34,8 +34,9 @@ Explore the live demo of HarshSpark:
 
 Here are some screenshots of the project:
 
-![Screenshot 1](https://i.ibb.co/9cw60yX/Screenshot-2024-12-19-215738.png)
-![Screenshot 2](https://i.ibb.co/RDCNpgh/Screenshot-2024-12-19-221020.png)
+![Screenshot 1](https://i.ibb.co/BqC5YCq/Screenshot-2024-10-19-121359.png)
+![Screenshot 2](https://i.ibb.co/9cw60yX/Screenshot-2024-12-19-215738.png)
+![Screenshot 3](https://i.ibb.co/RDCNpgh/Screenshot-2024-12-19-221020.png)
 
 🧐 **Features**
 
